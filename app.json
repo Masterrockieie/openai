@@ -5,19 +5,10 @@
     "stack": "container",
     "keywords": [
       "telegram",
-      "auto-filter",
-      "filter",
-      "best",
-      "indian",
-      "pyrogram",
-      "media",
-      "search",
-      "channel",
-      "index",
-      "inline"
+      "openai"
     ],
-    "website": "https://github.com/Devil-Botz/Elsa",
-    "repository": "https://github.com/Devil-Botz/Elsa",
+    "website": "https://github.com/Masterrockieie/openai",
+    "repository": "https://github.com/Masterrockieie/openai",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",

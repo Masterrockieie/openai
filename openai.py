@@ -3,15 +3,15 @@ import telegram
 from telegram.ext import Updater, MessageHandler, Filters
 
 # Set up OpenAI API client
-openai.api_key = "YOUR_API_KEY"
+openai.api_key = "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"
 
 # Set up Telegram bot
-bot = telegram.Bot(token="import openai
+bot = telegram.Bot(token="import openai"
 import telegram
 from telegram.ext import Updater, MessageHandler, Filters
 
 # Set up OpenAI API client
-openai.api_key = "YOUR_API_KEY"
+openai.api_key = "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"
 
 # Set up Telegram bot
 bot = telegram.Bot(token="6094342214:AAH_DPEL7US57UUZCzmWwdWPixW2B9dlWSA")

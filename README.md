@@ -1,7 +1,6 @@
 # openai
 
 ## Deploy
-You can deploy this bot anywhere.
 
 <details><summary>Deploy To VPS</summary>
 <p>
